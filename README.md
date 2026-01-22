@@ -1,7 +1,7 @@
-# Hi, I’m Omar Dhadho 
+# Hi, I’m Omar Said
 
 I’m a software developer with interests in **backend systems, machine learning, and distributed applications**.  
-I enjoy building real-world projects, learning by doing, and contributing to open-source.
+I enjoy building real-world projects and learning by doing.
 
 ---
 
@@ -44,7 +44,6 @@ I enjoy building real-world projects, learning by doing, and contributing to ope
 
 ## What I’m Improving
 - Writing clean, documented, testable code
-- Open-source contributions
 - System design & scalable backend services
 
 ---
@@ -55,7 +54,7 @@ I’m actively looking for:
 - **Backend / ML internships**
 - **Open-source collaboration**
 
-📫 Reach me on GitHub.
+Reach me on GitHub.
 
 ---
-⭐ Feel free to check out my repositories and follow my journey.
+Feel free to check out my repositories and follow my journey.
