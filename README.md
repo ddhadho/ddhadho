@@ -6,10 +6,10 @@ I enjoy building real-world projects and learning by doing.
 ---
 
 ## What I’m Working With
- **Languages:** Rust, Python, JavaScript, TypeScript
- **Backend:** REST APIs, databases, system design fundamentals
- **Machine Learning:** Data preprocessing, model training, evaluation
- **Tools:** Git, GitHub, Linux, Docker (learning)
+ - **Languages:** Rust, Python, JavaScript, TypeScript
+ - **Backend:** REST APIs, databases, system design fundamentals
+ - **Machine Learning:** Data preprocessing, model training, evaluation
+ - **Tools:** Git, GitHub, Linux, Docker (learning)
 
 ---
 
