@@ -1,6 +1,6 @@
 # Hi, I’m Omar Said
 
-I’m a software developer with interests in **backend systems, machine learning, and distributed applications**.  
+I’m a software developer with interests in **backend systems and distributed applications**.  
 I enjoy building real-world projects and learning by doing.
 
 ---
@@ -9,7 +9,7 @@ I enjoy building real-world projects and learning by doing.
  - **Languages:** Rust, Python, JavaScript, TypeScript
  - **Backend:** REST APIs, databases, system design fundamentals
  - **Machine Learning:** Data preprocessing, model training, evaluation
- - **Tools:** Git, GitHub, Linux, Docker (learning)
+ - **Tools:** Git, GitHub, Linux
 
 ---
 
@@ -42,19 +42,10 @@ I enjoy building real-world projects and learning by doing.
 
 ---
 
-## What I’m Improving
-- Writing clean, documented, testable code
-- System design & scalable backend services
-
----
-
 ## Open to Opportunities
 I’m actively looking for:
 - **Junior Software Developer roles**
-- **Backend / ML internships**
-- **Open-source collaboration**
 
 Reach me on GitHub.
 
 ---
-Feel free to check out my repositories and follow my journey.
